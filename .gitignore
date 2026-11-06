@@ -1,0 +1,7 @@
+# Credentials and runtime data must not be committed
+config/
+msmtprc
+spool/
+sounds/
+web/
+docker-compose.yml
